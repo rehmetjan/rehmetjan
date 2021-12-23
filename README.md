@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Wechat mini-app development
+- 🌱 I’m currently learning Vue3, TypeScript, Spring Cloud and other stuff
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with so many things
+- 💬 Ask me about collaborate, learning and leetcode
+- 📫 How to reach me: https://rehmet.gitee.io
+- 😄 Pronouns: developer
+- ⚡ Fun fact: ...
 <!--
 **rehmetjan/rehmetjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
