@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with so many things
 - 💬 Ask me about collaborate, learning and leetcode
-- 📫 How to reach me: https://rehmet.gitee.io
+- 📫 How to reach me: https://rehmetjan.github.io OR https://rehmet.gitee.io
 - 😄 Pronouns: developer
 - ⚡ Fun fact: ...
 <!--
