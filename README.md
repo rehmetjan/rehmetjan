@@ -1,24 +1,14 @@
-### Hi there 👋
+# Hi there! 👋
 
-- 🔭 I’m currently working on Wechat mini-app development
-- 🌱 I’m currently learning Vue3, TypeScript, Spring Cloud and other stuff
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with so many things
-- 💬 Ask me about collaborate, learning and leetcode
-- 📫 How to reach me: https://rehmetjan.github.io OR https://rehmet.gitee.io
-- 😄 Pronouns: developer
-- ⚡ Fun fact: ...
-<!--
-**rehmetjan/rehmetjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rehmetjan, a passionate developer based in Karamay, Xinjiang China. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working for PetroChina. Working on Java development, creating awesome experiences for users.
+- 🌱 I’m constantly learning and exploring new technologies. Currently, I'm diving deep into Python, LLMA, Pytorch, Vue 3, TypeScript, and Spring Cloud.
+- 👯 I’m always open to collaborating on exciting open-source projects. Let's build something amazing together!
+- 🤔 If you have any questions or need help with anything, feel free to ask. I love discussing code, learning, and solving problems.
+- 💬 Ask me about collaboration, learning resources, or even some challenging LeetCode problems!
+- 📫 You can reach me through my personal website: https://rehmetjan.github.io or my Gitee page: https://rehmet.gitee.io
+- 😄 Pronouns: Developer, problem solver, and coffee enthusiast.
+- ⚡ Fun fact: I once wrote a program that generated random cat memes. 🐱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and connect with me. Let's make the coding world a better place! 🚀
